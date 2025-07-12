@@ -1,0 +1,27 @@
+* {
+    margin 0;
+    padding: 0;
+
+}
+
+body {
+    margin: 20px;
+    font-family: arial;
+}
+
+h3 {
+    margin-left: 10px;
+    font-weight: normal;
+}
+
+span {
+    display: inline-block;
+    font-size: 40px;
+    padding: 20px;
+    background-color: #d6d6d6;
+    margin: 0 10px;
+}
+
+.red {
+    color: #ac0101;
+}

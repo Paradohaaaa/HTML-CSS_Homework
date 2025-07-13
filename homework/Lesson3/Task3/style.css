@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #000;
+    font-family: "Arial", sans-serif;
+    scroll-behavior: smooth;
+}
+
+section {
+    height: 100vh;
+    font-size: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    text-align: center;
+}
+
+section p {
+    width: 80vw;
+}
+
+section a {
+    font-size: 3em;
+    margin: 0.5em 0;
+}
+
+#section_top {
+    background-color: #1fda1f;
+}
+
+#section_midle {
+    background-color: #6a6aff;
+}
+
+#section-bottom {
+    background-color: #fdfd5f;
+}
+

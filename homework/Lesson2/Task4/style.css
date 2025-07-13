@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&family=Sedgwick+Ave+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Rubik+Pixels&family=Sedgwick+Ave+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Fjalla+One&family=Rubik+Pixels&family=Sedgwick+Ave+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Fjalla+One&family=Indie+Flower&family=Rubik+Pixels&family=Sedgwick+Ave+Display&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #3e0147;
+}
+
+.wrapper {
+    margin: 30px;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.ff-box {
+    font-size: 22px;
+    width: 250px;
+    height: 250px;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.rubik_pixels {
+    font-family: "Rubik Pixels", sans-serif;
+}
+
+.sedgwick_ave_display {
+    font-family: "Sedgwick Ave Display", sans-serif;
+}
+
+.dancing_script {
+    font-family: "Dancing Script", sans-serif;
+}
+
+.fjalla_one {
+    font-family: "Fjalla One", sans-serif;
+}
+
+.indie_flower {
+    font-family: "Indie Flower", sans-serif;
+}

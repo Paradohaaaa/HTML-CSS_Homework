@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+}
+
+header, footer, section div {
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    height: 60vh;
+    display: flex;
+}
+
+header {
+    background: #8D8484;
+}
+
+footer {
+    background: #BDBDBD;
+}
+
+section {
+    width: 73vw;
+    color: #fff;
+}
+
+.box-1 {
+    background: #776969;
+}
+
+.box-2 {
+    background: #643030;
+}
+
+.box-3 {
+    background: #441818;
+}
+
+aside {
+    width: 27vw;
+    color: #fff;
+}
+
+aside div {
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spam1 {
+    background: #937575;
+}
+
+.spam2 {
+    background: #644C4C;
+}

@@ -1,0 +1,11 @@
+@media screen and (max-width: 480px){
+    .wrapper {
+        max-width: 100%;
+        padding: 32px 16px;
+        gap: 40px;
+    }
+
+    .img-flex {
+        width: 100%;
+    }
+}

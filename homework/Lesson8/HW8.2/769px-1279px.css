@@ -1,0 +1,16 @@
+@media screen and (min-width: 769px) and (max-width: 1279px) {
+    .section-wrapper {
+        gap: 24px;
+    }
+    .item {
+        width: 348px;
+        height: 258px;
+        margin-top: 16px;
+    }
+
+    .item:nth-child(1) p, .item:nth-child(3) p, .item:nth-child(4) p{
+        width: 100%;
+    }
+
+
+}

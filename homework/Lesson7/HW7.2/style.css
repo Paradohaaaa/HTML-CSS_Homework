@@ -248,7 +248,7 @@ header a {
     letter-spacing: 0.8px;
 }
 
-.icons-section h2 {
+.icons-section h1 {
     color: #FFF;
     text-align: center;
     font-family: "Inter", sans-serif;
@@ -305,8 +305,11 @@ header a {
 
 .location-section {
     width: 100%;
-    height: 664px;
-    background-image: url('img/Location.png');
+}
+
+.location-section iframe {
+    width: 100%;
+    border: none;
 }
 
 /*------------------------- footer ------------------------*/
